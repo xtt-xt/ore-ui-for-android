@@ -17,8 +17,7 @@
 * 根据 OreUI 标准和实际游戏效果实现
 * 使用令人忍俊不禁的 `StyleSheet` 类管理样式
 * 使用令人忍俊不禁的 `Pixels2D` 类管理像素图
-* *Something in progress...*
-
+* 对原仓库进行一些自用修改
 ---
 
 ## 🚀 使用
